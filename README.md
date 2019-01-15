@@ -1,3 +1,7 @@
+Discontinued check out https://github.com/storm37000/SCPSL_Smod_MOTD
+
+
+
 # PluginInfo
 
 ## Install Instructions.
